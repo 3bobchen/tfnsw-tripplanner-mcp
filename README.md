@@ -48,7 +48,7 @@ Choose **one** of the options below depending on which Claude app you use. Repla
 #### Option A: Claude Code (terminal)
 
 ```bash
-claude mcp add tfnsw-tripplanner -e TFNSW_API_KEY=your_key -- npx tfnsw-tripplanner-mcp
+claude mcp add tfnsw-tripplanner -s user -e TFNSW_API_KEY=your_key -- npx tfnsw-tripplanner-mcp
 ```
 
 #### Option B: Claude Desktop (app)
