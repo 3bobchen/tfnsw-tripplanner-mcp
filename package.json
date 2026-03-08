@@ -1,6 +1,6 @@
 {
   "name": "tfnsw-tripplanner-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for Transport for NSW Trip Planner APIs",
   "license": "MIT",
   "type": "module",
